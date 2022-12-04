@@ -9,7 +9,7 @@ header {
     align-items: center;
     justify-content: center;
     height: 400px;
-    background: url("task_5.11/images/mountains-7586568_1280.jpg") bottom no-repeat; 
+    background: url("/task_5.11/images/mountains-7586568_1280.jpg") bottom no-repeat; 
     background-size: cover;
 }
 
