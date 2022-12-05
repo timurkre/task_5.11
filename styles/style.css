@@ -76,6 +76,3 @@ footer .links  > a {
     color: rgb(108, 117, 125);
     font-family: 'Times New Roman', Times, serif;
 }
-article:nth-child(odd) {
-    background-color: #0085a1;
-}
